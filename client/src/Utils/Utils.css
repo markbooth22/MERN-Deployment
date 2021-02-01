@@ -1,0 +1,27 @@
+.label-input {
+  width: 300px;
+  background-color: darkgray;
+  border-radius: 3px;
+  color: grey;
+  margin: 0 auto 5px;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.error {
+  color: red
+}
+
+.Button a {
+  text-decoration: none;
+  color: black;
+}
+
+.Button {
+  display: block;
+  margin: 0 auto 5px;
+  border-radius: 3px;
+  width: 100px;
+}
